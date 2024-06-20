@@ -31,7 +31,7 @@ Cara menjalankan ProductX ini:
 1. Menjalankan Server.
 ```bash
 php artisan serve
-
+```
 
 ## Fitur
 Daftar fitur utama dari ProductX.
@@ -40,6 +40,7 @@ Daftar fitur utama dari ProductX.
 - Fitur 1
 - Fitur 2
 - Fitur 3
+```
 
 ## Kontribusi
 Kami menerima kontribusi dengan senang hati! Silakan ikuti langkah-langkah berikut untuk berkontribusi:
