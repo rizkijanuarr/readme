@@ -9,6 +9,7 @@ Fokus utama ProductX adalah menyediakan layanan pemeriksaan rutin, rujukan, dan 
 - [Penggunaan](#penggunaan)
 - [Fitur](#fitur)
 - [Kontribusi](#kontribusi)
+- [Kontak](#kontak)
 
 ## Instalasi
 Langkah-langkah untuk menginstal <ProductX> ini:
@@ -53,7 +54,8 @@ Kami menerima kontribusi dengan senang hati! Silakan ikuti langkah-langkah berik
 
 Atau, lihat dokumentasi GitHub tentang [cara membuat pull request](https://help.github.com/en/github/collaborating-with-issues-and-pull-requests/creating-a-pull-request).
 
-
+## Kontak
+Jika Anda ingin menghubungi saya, Anda dapat mengirim email ke <rzkjanuarr@gmail.com>.
 
 
 
