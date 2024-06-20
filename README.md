@@ -38,9 +38,9 @@ php artisan serve
 Daftar fitur utama dari ProductX.
 
 ```markdown
-- Fitur 1
-- Fitur 2
-- Fitur 3
+- Fitur 1 ✅
+- Fitur 2 ✅
+- Fitur 3 ✅
 ```
 
 ## Kontribusi
