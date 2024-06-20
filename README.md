@@ -11,7 +11,7 @@ Fokus utama ProductX adalah menyediakan layanan pemeriksaan rutin, rujukan, dan 
 - [Kontribusi](#kontribusi)
 
 ## Instalasi
-Langkah-langkah untuk menginstal proyek ini:
+Langkah-langkah untuk menginstal <ProductX> ini:
 
 1. Clone repositori ini.
     ```bash
@@ -25,3 +25,34 @@ Langkah-langkah untuk menginstal proyek ini:
     ```bash
     npm install
     ```
+## Penggunaan
+Cara menjalankan ProductX ini:
+
+1. Menjalankan Server.
+```bash
+php artisan serve
+
+
+## Fitur
+Daftar fitur utama dari ProductX.
+
+```markdown
+- Fitur 1
+- Fitur 2
+- Fitur 3
+
+## Kontribusi
+Kami menerima kontribusi dengan senang hati! Silakan ikuti langkah-langkah berikut untuk berkontribusi:
+
+1. Fork repositori ini.
+2. Buat branch fitur (`git checkout -b fitur-anda`).
+3. Commit perubahan Anda (`git commit -am 'Tambah fitur'`).
+4. Push ke branch (`git push origin fitur-anda`).
+5. Buat Pull Request.
+
+Atau, lihat dokumentasi GitHub tentang [cara membuat pull request](https://help.github.com/en/github/collaborating-with-issues-and-pull-requests/creating-a-pull-request).
+
+
+
+
+
